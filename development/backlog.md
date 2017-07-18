@@ -65,6 +65,15 @@
 - [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [SmashingConf 2015 Barcelona: Zack Leatherman — A Brief History of that Time you used Web Fonts](https://vimeo.com/145055818)
 
+### New features
+- [Day 2: CSS, the future that’s yet to come](http://12devsofxmas.co.uk/2016/12/day-2-css-the-future-thats-yet-to-come/)
+- [Sneak Peek Into The Future: CSS Selectors, Level 4](https://www.smashingmagazine.com/2013/01/sneak-peek-future-selectors-level-4/)
+- [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
+- [New CSS features to make you fall in love with CSS again](https://toaster.co/articles/upcoming-css-features)
+- [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
+- [3 New CSS Features to Learn in 2017](https://bitsofco.de/3-new-css-features-to-learn-in-2017/)
+
+
 ---
 
 ## JS
