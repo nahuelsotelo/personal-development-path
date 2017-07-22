@@ -7,8 +7,6 @@
 - [Interaction Design Foundation](https://www.interaction-design.org/courses)
 - [Overarching Goals for 2017](https://github.com/IgnaciodeNuevo/personal-goals)
 - [Cathy O'Neil: "Weapons of Math Destruction" | Talks at Google](https://www.youtube.com/watch?v=TQHs8SA1qpk)
-- [Custom properties (--*)](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
-- [Lea Verou: CSS Variables: var(--subtitle) - CSSConf.Asia 2016](https://www.youtube.com/watch?v=kZOJCVvyF-4)
 - [How to track changes in the DOM using Mutation Observer](https://hashnode.com/post/how-to-track-changes-in-the-dom-using-mutation-observer-cj3gck03s0091jhk9yajr4v9t)
 - [Motion Design Thinking](https://blog.prototypr.io/motion-design-thinking-d9c3b23df221?ref=heydesigner)
 - [Pricing Psychology: 10 Timeless Strategies to Increase Sales](https://www.helpscout.net/blog/pricing-strategies/)
@@ -16,7 +14,6 @@
 - [Field Guide to Lean Experiments](http://www.movestheneedle.com/wp-content/uploads/2014/04/Mini_Guide_Experiment_Loop_MovesTheNeedle.pdf)
 - [Lean Experiment Tools](http://www.movestheneedle.com/resources/)
 - [Inclusive Design Principles](http://inclusivedesignprinciples.org/)
-- [Hugo Giraudel accesibility twitter](https://twitter.com/HugoGiraudel/status/877078717071327240)
 - [Go Docs](https://docs.gocd.org/current/introduction/concepts_in_go.html)
 - [The Lean Brand Stack](http://media.leanbrandbook.com/or-the-lean-brand-stack.pdf)
 - [Management 3.0 Products: Moving Motivators](https://management30.com/product/workouts/champfrogs-organizational-change-management/)
@@ -24,7 +21,6 @@
 - [Teach Access Tutorial](https://teachaccess.github.io/tutorial/#/0)
 - [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [The Designer’s Guide to AI — a $70 Billion industry by 2020](http://heydesigner.com/blog/designers-guide-ai/)
-- [BBC Guidelines HTML Accessibility Standards v2.0](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/)
 - [Kibana 101: Getting Started with Visualizations](https://www.elastic.co/webinars/kibana-101-get-started-with-visualizations)
 - [Best Practices for Push Notifications Permissions UX](https://docs.google.com/document/d/1WNPIS_2F0eyDm5SS2E6LZ_75tk6XtBSnR1xNjWJ_DPE/edit)
 - [Inclusive Design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
@@ -32,7 +28,7 @@
 - [ ] [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) - **[Book]**
 - [ ] [First Among Equals: How to Manage a Group of Professionals](https://www.amazon.com/First-Among-Equals-Manage-Professionals-ebook/dp/B003P9XHLW/ref=sr_1_1?ie=UTF8&qid=1499204112&sr=8-1&keywords=first+among+equals) **[Book]**
 - [ ] [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
-
+- [The Imposter Handbook](https://bigmachine.io/products/the-imposters-handbook/)
 ---
 
 ## HTML & CSS
@@ -71,22 +67,25 @@
 - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 - [New CSS features to make you fall in love with CSS again](https://toaster.co/articles/upcoming-css-features)
 - [Lea Verou - CSS Variables: var(--subtitle);](https://www.youtube.com/watch?v=2an6-WVPuJU)
+- [Lea Verou: CSS Variables: var(--subtitle) - CSSConf.Asia 2016](https://www.youtube.com/watch?v=kZOJCVvyF-4)
 - [3 New CSS Features to Learn in 2017](https://bitsofco.de/3-new-css-features-to-learn-in-2017/)
+- [Custom properties (--*)](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 
 
 ---
 
 ## JS
 ### Testing
-- [ ] [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
+- [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 
 ### Other
-- [ ] [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - Eric Elliott
-- [ ] [10 Priceless Resources for JavaScript Learners](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e) - Eric Elliott
-- [ ] [The Modern JavaScript Tutorial](http://javascript.info/)
-- [ ] [An incremental tutorial on promises in javascript](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/)
-- [ ] [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/)
-- [ ] [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - Eric Elliott
+- [10 Priceless Resources for JavaScript Learners](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e) - Eric Elliott
+- [The Modern JavaScript Tutorial](http://javascript.info/)
+- [An incremental tutorial on promises in javascript](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/)
+- [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/)
+- [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [A gentle introduction to functional javascript: part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/)
 
 ---
 
@@ -102,3 +101,11 @@
 
 ### Other
 -  [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+---
+
+## Accessibility
+- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [Hugo Giraudel accesibility twitter](https://twitter.com/HugoGiraudel/status/877078717071327240)
+- [BBC Guidelines HTML Accessibility Standards v2.0](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/)
+- [Inclusive Components](https://inclusive-components.design/)
