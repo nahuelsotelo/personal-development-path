@@ -24,11 +24,13 @@
 - [Kibana 101: Getting Started with Visualizations](https://www.elastic.co/webinars/kibana-101-get-started-with-visualizations)
 - [Best Practices for Push Notifications Permissions UX](https://docs.google.com/document/d/1WNPIS_2F0eyDm5SS2E6LZ_75tk6XtBSnR1xNjWJ_DPE/edit)
 - [Inclusive Design at Microsoft](https://www.microsoft.com/en-us/design/inclusive)
-- [ ] [RSA ANIMATE: Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
-- [ ] [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) - **[Book]**
-- [ ] [First Among Equals: How to Manage a Group of Professionals](https://www.amazon.com/First-Among-Equals-Manage-Professionals-ebook/dp/B003P9XHLW/ref=sr_1_1?ie=UTF8&qid=1499204112&sr=8-1&keywords=first+among+equals) **[Book]**
-- [ ] [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
+- [RSA ANIMATE: Drive: The surprising truth about what motivates us](https://www.youtube.com/watch?v=u6XAPnuFjJc)
+- [Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) - **[Book]**
+- [First Among Equals: How to Manage a Group of Professionals](https://www.amazon.com/First-Among-Equals-Manage-Professionals-ebook/dp/B003P9XHLW/ref=sr_1_1?ie=UTF8&qid=1499204112&sr=8-1&keywords=first+among+equals) **[Book]**
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 - [The Imposter Handbook](https://bigmachine.io/products/the-imposters-handbook/)
+- [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev)
+
 ---
 
 ## HTML & CSS
@@ -37,29 +39,30 @@
 - [BackstopJS](https://github.com/garris/BackstopJS)
 
 ### CSS Grid
-- [ ] [CSS Grid Garden](http://cssgridgarden.com/)
-- [ ] [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
-- [ ] [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
-- [ ] [CSS Grids Guides on MDN](https://www.rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/)
-- [ ] [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-- [ ] [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
-- [ ] [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] [Grid by Example](https://gridbyexample.com/)
-- [ ] [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
-- [ ] [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
-- [ ] [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
-- [ ] [How the minmax() function works](https://bitsofco.de/how-the-minmax-function-works/)
-- [ ] [Griddy](http://griddy.io/)
-- [ ] [LearnCSSGrid](http://learncssgrid.com/)
-- [ ] [Grid Talk examples](https://codepen.io/collection/DEPOzv/)
-- [ ] [Grid Layout Collection](https://codepen.io/collection/DgwjNL/)
-- [ ] [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
-- [ ] [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
-- [ ] [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
+- [CSS Grid Garden](http://cssgridgarden.com/)
+- [CSS Grid Layout Module Level 1 Specification](https://www.w3.org/TR/css-grid-1/)
+- [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- [CSS Grids Guides on MDN](https://www.rachelandrew.co.uk/archives/2017/03/07/css-grid-guides-on-mdn/)
+- [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [CSS Grid Layout and Progressive Enhancement](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_and_Progressive_Enhancement)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid by Example](https://gridbyexample.com/)
+- [Grid Fallbacks](https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks)
+- [Box Alignment Cheetsheet](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
+- [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+- [How the minmax() function works](https://bitsofco.de/how-the-minmax-function-works/)
+- [Griddy](http://griddy.io/)
+- [LearnCSSGrid](http://learncssgrid.com/)
+- [Grid Talk examples](https://codepen.io/collection/DEPOzv/)
+- [Grid Layout Collection](https://codepen.io/collection/DgwjNL/)
+- [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
+- [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
+- [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
 
 ### Performance
 - [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [SmashingConf 2015 Barcelona: Zack Leatherman — A Brief History of that Time you used Web Fonts](https://vimeo.com/145055818)
+- [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
 
 ### New features
 - [Day 2: CSS, the future that’s yet to come](http://12devsofxmas.co.uk/2016/12/day-2-css-the-future-thats-yet-to-come/)
@@ -70,13 +73,20 @@
 - [Lea Verou: CSS Variables: var(--subtitle) - CSSConf.Asia 2016](https://www.youtube.com/watch?v=kZOJCVvyF-4)
 - [3 New CSS Features to Learn in 2017](https://bitsofco.de/3-new-css-features-to-learn-in-2017/)
 - [Custom properties (--*)](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
-
+- [What do Variable Fonts mean for Web Developers?](https://blog.prototypr.io/what-does-variable-fonts-mean-for-web-developers-2e2b96c66497)
 
 ---
 
 ## JS
 ### Testing
+- [Intro To JavaScript Unit Testing With Mocha JS & Chai](https://www.youtube.com/watch?v=MLTRHc5dk6s)
+- [GOTO 2013 • JS Unit Testing Good Practices & Horrible Mistakes • Roy Osherove](https://www.youtube.com/watch?v=iP0Vl-vU3XM)
+- [Tech Talk: How to use Sinon.JS, a mocking library for testing](https://www.youtube.com/watch?v=SvudHPTEsIk)
+- [Unit Testing in JavaScript](https://www.youtube.com/playlist?list=PLZEZPz6HkCZk30XEdl0eGNhwvoR-XoWHS)
 - [Why I use Tape Instead of Mocha & So Should You](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
+
+### React
+- [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react)
 
 ### Other
 - [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) - Eric Elliott
@@ -109,3 +119,8 @@
 - [Hugo Giraudel accesibility twitter](https://twitter.com/HugoGiraudel/status/877078717071327240)
 - [BBC Guidelines HTML Accessibility Standards v2.0](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/)
 - [Inclusive Components](https://inclusive-components.design/)
+
+---
+
+## UX
+- [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
