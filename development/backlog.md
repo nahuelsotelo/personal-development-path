@@ -63,6 +63,7 @@
 - [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
 - [SmashingConf 2015 Barcelona: Zack Leatherman — A Brief History of that Time you used Web Fonts](https://vimeo.com/145055818)
 - [Measuring web performance; it’s really quite simple](https://hackernoon.com/measuring-web-performance-its-really-quite-simple-adeda8f7f39e)
+- [The Critical Request](https://css-tricks.com/the-critical-request/)
 
 ### New features
 - [Day 2: CSS, the future that’s yet to come](http://12devsofxmas.co.uk/2016/12/day-2-css-the-future-thats-yet-to-come/)
