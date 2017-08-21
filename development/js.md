@@ -11,9 +11,9 @@
 
 ## General
 - [ ] [JavaScript30](https://courses.wesbos.com/account)
-    - [ ] JavaScript Drum Kit
-    - [ ] CSS + JS Clock
-    - [ ] Playing with CSS Variables and JS
+    - [X] JavaScript Drum Kit
+    - [X] CSS + JS Clock
+    - [X] Playing with CSS Variables and JS
     - [ ] Array Cardio Day 1
     - [ ] Flex Panels Image Gallery
     - [ ] Ajax Type Ahead
@@ -43,4 +43,6 @@
     - [ ] Whack A Mole Game
 
  - [Public APIs](https://github.com/toddmotto/public-apis)
+ - [JavaScript Modules: A Beginner’s Guide](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
+ - [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 
