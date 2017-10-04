@@ -58,6 +58,9 @@
 - [CSS Grid Layout](https://codepen.io/collection/XRRJGq/)
 - [CSS Grid Layout | Frontend NE: Video](https://www.youtube.com/watch?v=N5Lt1SLqBmQ) & [CSS Grid Layout | Frontend NE: Slides](https://www.slideshare.net/rachelandrew/css-grid-layout-for-frontend-ne)
 - [Grid Exercises](http://labs.jensimmons.com/2017/exercises.html)
+- [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
+- [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
+- [Introduction to CSS grid layout](https://mozilladevelopers.github.io/playground/)
 
 ### Performance
 - [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
@@ -120,8 +123,27 @@
 - [Hugo Giraudel accesibility twitter](https://twitter.com/HugoGiraudel/status/877078717071327240)
 - [BBC Guidelines HTML Accessibility Standards v2.0](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/html/)
 - [Inclusive Components](https://inclusive-components.design/)
+- [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
+- [Designing for Accessibility, Step 1: Color Contrast](https://uxdesign.cc/the-easiest-part-about-designing-accessible-websites-76cd6b9a7ae4)
+- [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
 
 ---
 
 ## UX
 - [Most Common UX Design Methods and Techniques](https://uxplanet.org/most-common-ux-design-methods-and-techniques-c9a9fdc25a1e)
+
+---
+
+## Teaching Material
+- [CSS Reference (codrops)](https://tympanus.net/codrops/css_reference/#section_css-pseudo-class)
+- [cssreference.io](http://cssreference.io/)
+- [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+- [HTML/CSS - Katas](https://codepen.io/collection/ABLwQb/)
+- [CSS Kata](https://github.com/georgenorman/css-kata)
+- [Advanced HTML and CSS Sushi](https://www.gitbook.com/book/coderdojo/advanced-html-and-css-sushi/details)
+- [CSS Tutorials](http://www.htmldog.com/guides/css/)
+- [CSS-HTML-Learning-Practice](https://github.com/MarieBock/CSS-HTML-Learning-Practice/blob/master/selectors.css)
+- [30 CSS Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
+- [Girl Develop It San Francisco - Teaching Materials](https://www.teaching-materials.org/)
+- [CSS Selectors Practice Exercise](https://codepen.io/infinitytrain/pen/mPNbop)
+- []()
