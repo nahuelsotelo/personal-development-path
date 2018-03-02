@@ -61,6 +61,8 @@
 - [Browser Compatibility for CSS Grid Layouts with Simple Sass Mixins](https://css-tricks.com/browser-compatibility-css-grid-layouts-simple-sass-mixins/)
 - [Progressively Enhancing CSS Layout: From Floats To Flexbox To Grid](https://www.smashingmagazine.com/2017/07/enhancing-css-layout-floats-flexbox-grid/)
 - [Introduction to CSS grid layout](https://mozilladevelopers.github.io/playground/)
+- [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?ref=heydesigner)
+- [CSS Grid Explained in 7 Minutes (with diagrams and code)](https://www.youtube.com/watch?v=ojKbYz0iKQE)
 
 ### Performance
 - [A comprehensive guide to font loading strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
@@ -78,6 +80,10 @@
 - [3 New CSS Features to Learn in 2017](https://bitsofco.de/3-new-css-features-to-learn-in-2017/)
 - [Custom properties (--*)](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
 - [What do Variable Fonts mean for Web Developers?](https://blog.prototypr.io/what-does-variable-fonts-mean-for-web-developers-2e2b96c66497)
+
+### SVG
+- [10 golden rules for responsive SVGs](https://www.creativebloq.com/how-to/10-golden-rules-for-responsive-svgs)
+- [How to Scale SVG](https://css-tricks.com/scale-svg/)
 
 ---
 
@@ -126,6 +132,7 @@
 - [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 - [Designing for Accessibility, Step 1: Color Contrast](https://uxdesign.cc/the-easiest-part-about-designing-accessible-websites-76cd6b9a7ae4)
 - [Writing CSS with Accessibility in Mind](https://medium.com/@matuzo/writing-css-with-accessibility-in-mind-8514a0007939)
+- [Getting Started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92?ref=heydesigner)
 
 ---
 
@@ -135,7 +142,7 @@
 ---
 
 ## Teaching Material
-- [CSS Reference (codrops)](https://tympanus.net/codrops/css_reference/#section_css-pseudo-class)
+- [CSS Reference (codrops)](https://tympanus.net/codrops/css_reference)
 - [cssreference.io](http://cssreference.io/)
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 - [HTML/CSS - Katas](https://codepen.io/collection/ABLwQb/)
@@ -146,4 +153,3 @@
 - [30 CSS Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
 - [Girl Develop It San Francisco - Teaching Materials](https://www.teaching-materials.org/)
 - [CSS Selectors Practice Exercise](https://codepen.io/infinitytrain/pen/mPNbop)
-- []()
