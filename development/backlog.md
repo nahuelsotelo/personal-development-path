@@ -85,6 +85,13 @@
 - [10 golden rules for responsive SVGs](https://www.creativebloq.com/how-to/10-golden-rules-for-responsive-svgs)
 - [How to Scale SVG](https://css-tricks.com/scale-svg/)
 
+### CSSOM
+- [The Beginners Guide to CSS Object Model (CSSOM)](https://www.hongkiat.com/blog/css-object-model-cssom/)
+- [CSS Object Model](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model)
+- [Constructing the Object Model](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model)
+- [Houdini: Demystifying CSS](https://developers.google.com/web/updates/2016/05/houdini)
+- [Houdini is like Babel but for CSS](https://medium.com/@mutebg/houdini-could-be-like-babel-but-for-css-7110d7cb6d60)
+
 ---
 
 ## JS
